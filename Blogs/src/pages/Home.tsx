@@ -7,7 +7,7 @@ export default function Home() {
             title: "Specter trials 2026 ctf",
             path: "blogs/specterCTF",
             description: "Well folks lets dive in to the specter CTF find out what happened"
-        }
+        },
         { 
             title: "247CTF  Challenges",
             path: "blogs/247CTFs",
